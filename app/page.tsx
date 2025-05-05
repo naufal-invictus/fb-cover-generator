@@ -9,7 +9,7 @@ export default function Home() {
         <div className="max-w-6xl mx-auto">
           <header className="text-center mb-8">
             <h1 className="text-3xl md:text-4xl font-bold text-gray-800 mb-2">Facebook Cover Generator</h1>
-            <p className="text-gray-600">Create a personalized Facebook cover based on your MBTI personality type</p>
+            <p className="text-gray-600">No description, the developer was too busy coding (or napping) to write a proper description. Just click around, you'll figure it out.</p>
           </header>
 
           <CoverGenerator />
